@@ -1,0 +1,2 @@
+This folder (depth) contains workflows to work on snow depth data. These Python files collect the snow_depth and temperature subdatasets from
+ERA5 netCDF files and create both timeseries and map visualizations. 
