@@ -1,0 +1,13 @@
+name: snow_depth
+
+channels: 
+  - conda-forge 
+
+dependencies: 
+  - python=3.11
+  - gdal
+  - xarray
+  - netcdf4
+  - matplotlib
+  - geopandas
+  - rioxarray
